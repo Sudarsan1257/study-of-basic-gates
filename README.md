@@ -1,6 +1,6 @@
 ### Name:SUDARSAN.A
 ### REG NO:24900190
-### EX :Study of Basic Gates
+### EX 1:Study of Basic Gates
 
 ### AIM: 
 
@@ -73,9 +73,8 @@ Y= A⊕B
 ### RTL REALISATION OUTPUT:
 ![Screenshot 2024-11-06 224917](https://github.com/user-attachments/assets/cc9985cc-9602-4a1b-9e36-1ef88a052861)
 
-### RTL:
+### TIMING OUTPUT:
 ![Output](https://github.com/user-attachments/assets/02564cae-d9f4-49cb-b154-0c8260d3a76e)
 
 ### RESULT:
-
-SUCCESS
+STUDIED AND VERIFIED SUCCESSFULLY.
