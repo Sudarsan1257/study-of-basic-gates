@@ -73,8 +73,9 @@ Y= A⊕B
 ### RTL REALISATION OUTPUT:
 ![Screenshot 2024-11-06 224917](https://github.com/user-attachments/assets/cc9985cc-9602-4a1b-9e36-1ef88a052861)
 
-### TIMING OUTPUT:
-![Output](https://github.com/user-attachments/assets/02564cae-d9f4-49cb-b154-0c8260d3a76e)
+### TIMING DIAGRAM:
+![WhatsApp Image 2024-11-07 at 11 13 07_900a8ea9](https://github.com/user-attachments/assets/0aad4232-68c0-4c92-bdaf-9700e2aa019b)
+
 
 ### RESULT:
-STUDIED AND VERIFIED SUCCESSFULLY.
+Study and verify the truth table of logic gates in Quartus II using Verilog programming Successfully
